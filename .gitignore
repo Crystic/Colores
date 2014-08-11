@@ -47,3 +47,4 @@ gradle/*
 *.GRADLE
 *.file
 *.bat
+*.class
