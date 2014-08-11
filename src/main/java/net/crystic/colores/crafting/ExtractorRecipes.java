@@ -4,7 +4,6 @@ import net.crystic.colores.Colores;
 import net.minecraft.init.Items;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.crafting.FurnaceRecipes;
 
 public class ExtractorRecipes {
 

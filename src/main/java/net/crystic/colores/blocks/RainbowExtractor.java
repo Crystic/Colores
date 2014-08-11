@@ -22,6 +22,7 @@ import cpw.mods.fml.common.network.internal.FMLNetworkHandler;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
+@SuppressWarnings(value = { "unused" })
 public class RainbowExtractor extends BlockContainer {
 
 	private final boolean isActive;

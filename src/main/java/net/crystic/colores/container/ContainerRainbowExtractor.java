@@ -1,6 +1,5 @@
 package net.crystic.colores.container;
 
-import net.crystic.colores.crafting.ExtractorRecipes;
 import net.crystic.colores.tileentity.TileEntityRainbowExtractor;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.InventoryPlayer;

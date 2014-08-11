@@ -6,6 +6,7 @@ import net.minecraft.item.ItemStack;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import cpw.mods.fml.common.gameevent.PlayerEvent.ItemCraftedEvent;
 
+@SuppressWarnings(value = { "unused" })
 public class CraftingHandler {
 
 	@SubscribeEvent
